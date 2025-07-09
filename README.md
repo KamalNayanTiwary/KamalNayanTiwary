@@ -1,13 +1,12 @@
 #  Hi 👋, I'm KAMAL NAYAN TIWARY
-**A passionate Data Analytics**
+**A passionate Data Analyst**
 
 Email Me 👉 ✉️ **kamalnayantiwary73@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** B.Tech in Computer Science Engineering.
 - 📫 **How to reach me:** email me ☝️
-- ⚡ **Fact:** Exploring Data.Creating value.Grow every day.
 
- ## 🔗 I am a Data Analytics Enthusiast. 
+ ## 🔗 Exploring Data.Creating value.Grow every day.. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamal-nayan-tiwary-2022-2026-/ ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kamal_nayan_tiwary__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nayan_tiwa20448) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamalnayantiwary73@gmail.com) 
