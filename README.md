@@ -19,7 +19,6 @@ Email Me 👉 ✉️ **kamalnayantiwary73@gmail.com** For Collaboration/Project 
 </div>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=KamalNayanTiwary&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KamalNayanTiwary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
