@@ -6,7 +6,6 @@
 - Python for data manipulation and visualization
 - Excel for interactive dashboards and analysis
 - Power BI for business intelligence and storytelling
-- Machine Learning for predictive analytics
 
 Email Me 👉 ✉️ **kamalnayantiwary73@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -52,7 +51,6 @@ Email Me 👉 ✉️ **kamalnayantiwary73@gmail.com** For Collaboration/Project 
 
 ### Others
 - Statistics (Descriptive & Inferential)
-- Machine Learning (Supervised Learning Models)
 
 Explore my repositories to see how I apply these skills to real-world scenarios!
 
