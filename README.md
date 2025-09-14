@@ -1,5 +1,5 @@
 #  Hi 👋, I'm KAMAL NAYAN TIWARY
-**A passionate Data Analyst**
+## A passionate Data Analyst
 
 **I’ve worked extensively with:**
 - SQL for data querying and analysis
